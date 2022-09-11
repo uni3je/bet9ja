@@ -1,0 +1,189 @@
+ *{
+         padding: 0;
+         margin: 0;
+         box-sizing: border-box;
+      }
+
+      .bet{
+         color:red ;
+      }
+
+      .ja{
+        color: green; 
+      }
+
+      ::placeholder{
+         color: ghostwhite;
+         position: relative;
+         left: 10px;
+      }
+
+      h1{
+         background-color:#34343e ;
+         text-align: center;
+         box-sizing: border-box;
+      }
+
+      body{
+         color: white;
+         text-transform: capitalize;
+         font-size: 25px;
+      }
+      
+
+      .input input{
+         width: 95%;
+         height: 50px;
+         margin: 10px;
+         background-color: #3d444b;
+         outline: none;
+         box-shadow: 1px;
+         box-sizing: border-box;
+      }
+
+      .sub input{
+         height: 45px;
+         width: 90%;
+         background-color:  #10743e;
+         color: white;
+         border: 0;
+         margin-top: 10px;
+         box-sizing: border-box;
+      }
+
+      a{text-align: right;
+         position: absolute;
+         bottom: 1px;
+         left: 74%;
+         text-decoration: none;
+         text-transform: capitalize;
+         color: wheat;
+         margin-top: 5px 
+      }
+
+      .navbar{
+         font-size: 17px;
+         position: relative;
+         left: 17px;
+         margin-top: 15px;
+      }
+
+      .sub{
+         text-align: center;
+         box-sizing: border-box;
+         
+      }
+
+      .forgot p a{
+         color: white;
+         text-align: center;
+         position: relative;
+         left: 150px;
+         top: 10px;
+         font-size: 12px;
+         box-sizing: border-box;
+         
+      }
+       
+      .line{
+         background-color: black;
+         height: 1px;
+         position: relative;
+         top: 25px;
+         padding: 0px;
+         margin: 0px;
+      }
+
+      .wrapper{
+         background-color: rgb(40, 40, 50) ;
+         height: 350px;
+         box-sizing:border-box;
+
+      }
+
+
+
+      .w{ background-color:#34343e;
+         margin-top: 25px;
+         box-sizing: content-box;
+      }
+
+      .logog h1{
+         background-color:#34343e ;
+         text-align: center;
+         box-sizing: border-box;
+         font-size: 30px;
+         box-sizing:content-box;
+         
+      }
+
+      .logog p {
+         box-sizing: content-box;
+         
+      }
+
+      .pors{
+         margin-top: 10px;
+         position: relative;
+         left: 10%;
+         box-sizing:content-box;
+         
+      }
+
+      .pors p{
+         font-size: 13px;
+         box-sizing:content-box;
+         
+      }
+
+      
+
+      .con{
+         position:relative;
+         left: 20px;
+         bottom: 0px;
+         box-sizing: content-box;
+         
+      }
+
+      .ron{
+      position:relative;
+      left: 1px;
+      word-spacing: 0;
+      margin: 0;
+      padding: 0;
+      box-sizing:border-box;
+      }
+
+      .help{
+      position:relative;
+      left: 80px;
+      bottom: 0px;
+      box-sizing: content-box;
+
+      }
+
+      .tc{
+      position:relative;
+      left: 130px;
+      bottom: 0px;
+      box-sizing:content-box;
+      
+      }
+
+      .pors a{
+       color: white;
+       box-sizing:content-box;
+       font-size: 10px;
+       
+      }
+
+      .pors{
+         margin-top: 30px;
+      }
+
+      i{
+         position: relative;
+         left: 80%;
+         bottom: 27px;
+      }
